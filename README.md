@@ -4,6 +4,10 @@
 - 👩🏼‍🏫 Professora de Front-End e Inclusão digital desde 2021
 - 🌱 Estudando: Banco de Dados, IA, Javascript e Educação
 
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,bootstrap,xd,ai,ps,figma,git,github,vscode,&perline=4)](https://skillicons.dev)
+
 
 ### Contatos:
 
