@@ -5,8 +5,12 @@
 - 🌱 Estudando: Banco de Dados, IA, Javascript e Educação
 
 ## Skills
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,bootstrap,xd,ai,ps,figma,git,github,vscode,&perline=4)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,c,bootstrap,xd,ai,ps,figma,git,github,vscode" /
+ </a>
+</p>
 
 
 ### Contatos:
