@@ -3,6 +3,13 @@
 - 🎓 Formada em Sistemas para Internet pela FATEC desde 2019
 - 👩🏼‍🏫 Professora de Front-End e Inclusão digital desde 2021
 - 🌱 Estudando: Banco de Dados, IA, Javascript e Educação
+- 💌 Contatos: ⤵️
+
+<div>
+<a href="https://instagram.com/thamiresviel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+<a href = "mailto:vielthamires@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/thamiresviel" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>   
+</div>
 
 ## Skills
 <p align="center">
@@ -12,14 +19,6 @@
  </a>
 </p>
 
-
-### Contatos:
-
-<div>
-<a href="https://instagram.com/thamiresviel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:vielthamires@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/thamiresviel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
 
 ## Estatisticas
 
