@@ -14,6 +14,7 @@ Me chamo Thamires Viel
 </div>
 </p>
 
+
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
