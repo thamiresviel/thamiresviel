@@ -5,7 +5,7 @@ Olá mundo 👋
 Me chamo Thamires Viel
 - 🎓 Formada em Sistemas para Internet pela FATEC desde 2019
 - 👩🏼‍🏫 Professora de Front-End e Inclusão digital desde 2021
-- 🌱 Estudando: Banco de Dados, IA, Javascript e Educação
+- 🌱 Estudando: Desenvolvimento Full Stack e Educação
 - 💌 Contatos: ⤵️
 <div>
 <a href="https://instagram.com/thamiresviel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
